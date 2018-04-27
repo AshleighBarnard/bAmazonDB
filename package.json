@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/AshleighBarnard/bAmazonDB/issues"
   },
-  "homepage": "https://github.com/AshleighBarnard/bAmazonDB#readme"
+  "homepage": "https://github.com/AshleighBarnard/bAmazonDB#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {}
 }
