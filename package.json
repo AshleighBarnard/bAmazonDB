@@ -1,0 +1,20 @@
+{
+  "name": "bAmazonDB",
+  "version": "1.0.0",
+  "description": "Description This application implements a simple command line based storefront using the npm inquirer package and the MySQL database backend together with the npm mysql package. The application presents two interfaces: customer and manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleighBarnard/bAmazonDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshleighBarnard/bAmazonDB/issues"
+  },
+  "homepage": "https://github.com/AshleighBarnard/bAmazonDB#readme"
+}
